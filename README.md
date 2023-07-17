@@ -5,5 +5,5 @@
 ## Pós-graduação
 ### Faculdade Focus :: Engenharia Devops
 **Disciplinas:**
-[Desenvolvimento de Soluções em Python](pos-graduacao\desenvolvimento-de-solucoes-com-python)
+[Desenvolvimento de Soluções em Python](pos-graduacao/desenvolvimento-de-solucoes-com-python)
 
